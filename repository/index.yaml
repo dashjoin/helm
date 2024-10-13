@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  dashjoin:
+  - apiVersion: v2
+    appVersion: 5.2.2
+    created: "2024-10-13T17:52:03.007469+02:00"
+    description: A Helm chart for the Dashjoin Platform
+    digest: dffd877b06f6cddb464f0a462eb6589dd6a4a3aeb49373a6193b3ed28eafb5ea
+    icon: https://dashjoin.com/img/fav.png
+    maintainers:
+    - email: info@dashjoin.com
+      name: Dashjoin Team
+      url: https://dashjoin.com
+    name: dashjoin
+    type: application
+    urls:
+    - dashjoin-0.9.4.tgz
+    version: 0.9.4
+generated: "2024-10-13T17:52:03.006692+02:00"
