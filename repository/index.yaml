@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   dashjoin:
   - apiVersion: v2
-    appVersion: 6.2.49
-    created: "2026-05-07T12:58:51.642557+02:00"
+    appVersion: 7.0.1
+    created: "2026-05-07T15:11:00.611935+02:00"
     description: A Helm chart for the Dashjoin Platform
-    digest: 9f06e3810668525975b6844e5b447b078354d2f0e2d53ebdfc3f9161db2eb797
+    digest: c3c930042b2c598f88a187a73cf1cc495eb42979d3720fee2c6a9c4c8250231e
     icon: https://dashjoin.com/img/fav.png
     maintainers:
     - email: info@dashjoin.com
@@ -18,7 +18,7 @@ entries:
     version: 0.9.11
   - apiVersion: v2
     appVersion: 6.2.2
-    created: "2026-05-07T12:58:51.641828+02:00"
+    created: "2026-05-07T15:11:00.61115+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: f533cab7dc3045eb1b6a841401a9187c67e117ecc4ed1e98b3db209979adaa69
     icon: https://dashjoin.com/img/fav.png
@@ -33,7 +33,7 @@ entries:
     version: 0.9.10
   - apiVersion: v2
     appVersion: 6.1.0
-    created: "2026-05-07T12:58:51.647969+02:00"
+    created: "2026-05-07T15:11:00.621209+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: 2606a6cfd855d53b58c5f58be041302273e67cdb76c0b4d190f60b758c07ab8e
     icon: https://dashjoin.com/img/fav.png
@@ -48,7 +48,7 @@ entries:
     version: 0.9.9
   - apiVersion: v2
     appVersion: 6.0.4
-    created: "2026-05-07T12:58:51.647354+02:00"
+    created: "2026-05-07T15:11:00.619824+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: 8a5d5fc90de76c6a2e1ca9d4194d2b8671739336c484515b596eddae2ba23353
     icon: https://dashjoin.com/img/fav.png
@@ -63,7 +63,7 @@ entries:
     version: 0.9.8
   - apiVersion: v2
     appVersion: 5.4.1
-    created: "2026-05-07T12:58:51.646286+02:00"
+    created: "2026-05-07T15:11:00.61882+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: b535b610c512cd80603b32439b28f5c01c490be73a48a676a6f28cb118e9a23d
     icon: https://dashjoin.com/img/fav.png
@@ -78,7 +78,7 @@ entries:
     version: 0.9.7
   - apiVersion: v2
     appVersion: 5.4.1
-    created: "2026-05-07T12:58:51.645691+02:00"
+    created: "2026-05-07T15:11:00.617869+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: b54c5eb57b21d12f66ec20267d6f13e300e1d33608a778a259e49372dde06af4
     icon: https://dashjoin.com/img/fav.png
@@ -93,7 +93,7 @@ entries:
     version: 0.9.6
   - apiVersion: v2
     appVersion: 5.3.4
-    created: "2026-05-07T12:58:51.645103+02:00"
+    created: "2026-05-07T15:11:00.616926+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: 2c942739034b093bf39039fbb1eeb261921ee2cebe9799cd287497a8f638569c
     icon: https://dashjoin.com/img/fav.png
@@ -108,7 +108,7 @@ entries:
     version: 0.9.5
   - apiVersion: v2
     appVersion: 5.2.2
-    created: "2026-05-07T12:58:51.644514+02:00"
+    created: "2026-05-07T15:11:00.615963+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: dffd877b06f6cddb464f0a462eb6589dd6a4a3aeb49373a6193b3ed28eafb5ea
     icon: https://dashjoin.com/img/fav.png
@@ -123,7 +123,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 5.2.2
-    created: "2026-05-07T12:58:51.643863+02:00"
+    created: "2026-05-07T15:11:00.614991+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: 926d5595ade10ad77ee06f55900b3887e5ef523782ff23c14ef7252e3826dfbe
     icon: https://dashjoin.com/img/fav.png
@@ -138,7 +138,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 5.2.2
-    created: "2026-05-07T12:58:51.64318+02:00"
+    created: "2026-05-07T15:11:00.61392+02:00"
     description: A Helm chart for the Dashjoin Platform
     digest: 73f0afd560ff6c1906e78392ed4a607539ed7a495d101906ba8b68847a64e437
     icon: https://dashjoin.com/img/fav.png
@@ -151,4 +151,4 @@ entries:
     urls:
     - dashjoin-0.9.2.tgz
     version: 0.9.2
-generated: "2026-05-07T12:58:51.641075+02:00"
+generated: "2026-05-07T15:11:00.609549+02:00"
